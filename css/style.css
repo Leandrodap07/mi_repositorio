@@ -1,0 +1,61 @@
+body
+{
+	background: url("https://wallpapersmug.com/download/1920x1080/58a371/simple-art-cubes-abstract.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	background-color: #66999;
+}
+.portada h1 {
+	color: royalblue;
+	font-size: 80px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-variant: initial;
+
+}
+.portada h2 {
+	color:hsl(24, 13%, 45%);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 50px;
+
+	
+	
+}
+.descripcion {
+	color: hsl(29, 94%, 52%);
+	font-size: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.descripcion p {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: x-large;
+	font-weight: bold;
+	text-align: justify;
+	margin: 15px;
+	background-color: hwb(4 83% 4%);
+	color: hsl(0, 48%, 49%);
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+.video{
+	padding: 80px, 80px, 30px, 30px;
+	display: flex, center;
+}
+.pie h3 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: x-large;
+	font-weight: bold;
+	margin: 15px;
+	background-color: hsl(4, 100%, 53%);
+	color: #3d1e1e;
+	padding: 18px 29px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+	
